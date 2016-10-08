@@ -1,0 +1,8 @@
+{
+  "name": "drupal/aluminum_fields",
+  "type": "drupal-module",
+  "description": "Contains shared resources for all aluminum field types.",
+  "homepage": "http://drupal.org/project/aluminum_fields",
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev"
+}

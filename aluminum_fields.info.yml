@@ -1,0 +1,8 @@
+name: Aluminum Fields
+type: module
+description: "Contains shared resources for all aluminum field types."
+core: 8.x
+package: Aluminum
+dependencies:
+  - aluminum
+  - aluminum_vault
